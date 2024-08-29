@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevi-1&label=Profile%20views&color=0e75b6&style=flat" alt="jeevi-1" /> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails , Javascript , HTML , CSS**
+- 🌱 I’m currently learning **React, Selenium**
 
 - 💬 Ask me about **Ruby on Rails , HTML , CSS**
 
